@@ -49,6 +49,7 @@ def json_file(url):
     return vacancies
 
 
-# Строка запроса
-query = 'Python,Django,Flask'
-pprint(json_file(url_create(query)))
+if __name__ == '__main__':
+    # Строка запроса
+    query = 'Python,Django,Flask'
+    pprint(json_file(url_create(query)))

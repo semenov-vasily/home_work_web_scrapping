@@ -1,5 +1,12 @@
 [
    {
+      "name_vacancy": "Python Developer (Tools)",
+      "link_vacancy": "https://spb.hh.ru/vacancy/84644126?query=Python+Django+Flask&hhtmFrom=vacancy_search_list",
+      "salary": "не указана",
+      "company": "Lesta Games",
+      "city": "Москва"
+   },
+   {
       "name_vacancy": "Senior Python Developer (Django)",
       "link_vacancy": "https://spb.hh.ru/vacancy/88593532?query=Python+Django+Flask&hhtmFrom=vacancy_search_list",
       "salary": "не указана",
@@ -14,6 +21,27 @@
       "city": "Москва"
    },
    {
+      "name_vacancy": "Наставник на курс “Middle Python-разработчик”",
+      "link_vacancy": "https://spb.hh.ru/vacancy/91413225?query=Python+Django+Flask&hhtmFrom=vacancy_search_list",
+      "salary": "не указана",
+      "company": "Яндекс Практикум",
+      "city": "Москва"
+   },
+   {
+      "name_vacancy": "Python developer со знанием Vue (Middle+/Senior)",
+      "link_vacancy": "https://spb.hh.ru/vacancy/91997753?query=Python+Django+Flask&hhtmFrom=vacancy_search_list",
+      "salary": "не указана",
+      "company": "Secreate",
+      "city": "Москва"
+   },
+   {
+      "name_vacancy": "Python Developer (Platform)",
+      "link_vacancy": "https://spb.hh.ru/vacancy/90175074?query=Python+Django+Flask&hhtmFrom=vacancy_search_list",
+      "salary": "не указана",
+      "company": "Lesta Games",
+      "city": "Санкт-Петербург"
+   },
+   {
       "name_vacancy": "Программист - разработчик Python / PHP Developer",
       "link_vacancy": "https://spb.hh.ru/vacancy/91672663?query=Python+Django+Flask&hhtmFrom=vacancy_search_list",
       "salary": "до 75 000 ₽",
@@ -25,13 +53,6 @@
       "link_vacancy": "https://spb.hh.ru/vacancy/91827329?query=Python+Django+Flask&hhtmFrom=vacancy_search_list",
       "salary": "не указана",
       "company": "АНО ЦИСМ",
-      "city": "Москва"
-   },
-   {
-      "name_vacancy": "Python/C++ Software Developer (Scientific platform)",
-      "link_vacancy": "https://spb.hh.ru/vacancy/79041274?query=Python+Django+Flask&hhtmFrom=vacancy_search_list",
-      "salary": "не указана",
-      "company": "The Skolkovo Institute of Science and Technology",
       "city": "Москва"
    },
    {
@@ -56,6 +77,13 @@
       "city": "Санкт-Петербург"
    },
    {
+      "name_vacancy": "Python/C++ Software Developer (Scientific platform)",
+      "link_vacancy": "https://spb.hh.ru/vacancy/79041274?query=Python+Django+Flask&hhtmFrom=vacancy_search_list",
+      "salary": "не указана",
+      "company": "The Skolkovo Institute of Science and Technology",
+      "city": "Москва"
+   },
+   {
       "name_vacancy": "Python разработчик",
       "link_vacancy": "https://spb.hh.ru/vacancy/92478871?query=Python+Django+Flask&hhtmFrom=vacancy_search_list",
       "salary": "180 000 – 230 000 ₽",
@@ -77,24 +105,10 @@
       "city": "Санкт-Петербург"
    },
    {
-      "name_vacancy": "Python-разработчик",
-      "link_vacancy": "https://spb.hh.ru/vacancy/91987693?query=Python+Django+Flask&hhtmFrom=vacancy_search_list",
-      "salary": "до 450 000 ₽",
-      "company": "Точка",
-      "city": "Москва"
-   },
-   {
       "name_vacancy": "Системный программист / разработчик Python",
       "link_vacancy": "https://spb.hh.ru/vacancy/92323149?query=Python+Django+Flask&hhtmFrom=vacancy_search_list",
       "salary": "200 000 – 350 000 ₽",
       "company": "Carbon Soft",
-      "city": "Москва"
-   },
-   {
-      "name_vacancy": "Backend-разработчик (Python) в финансовый блок.",
-      "link_vacancy": "https://spb.hh.ru/vacancy/92540892?query=Python+Django+Flask&hhtmFrom=vacancy_search_list",
-      "salary": "не указана",
-      "company": "билайн: ИТ, Data, Digital",
       "city": "Москва"
    },
    {
@@ -123,20 +137,6 @@
       "link_vacancy": "https://spb.hh.ru/vacancy/86071635?query=Python+Django+Flask&hhtmFrom=vacancy_search_list",
       "salary": "не указана",
       "company": "АО Национальная система платежных карт",
-      "city": "Москва"
-   },
-   {
-      "name_vacancy": "Разработчик Python (FastAPI, MySQL, Clickhouse), удаленно",
-      "link_vacancy": "https://spb.hh.ru/vacancy/92333181?query=Python+Django+Flask&hhtmFrom=vacancy_search_list",
-      "salary": "от 250 000 ₽",
-      "company": "ООО ИНТЕХ",
-      "city": "Москва"
-   },
-   {
-      "name_vacancy": "Python Developer (Tools)",
-      "link_vacancy": "https://spb.hh.ru/vacancy/84644126?query=Python+Django+Flask&hhtmFrom=vacancy_search_list",
-      "salary": "не указана",
-      "company": "Lesta Games",
       "city": "Москва"
    }
 ]
